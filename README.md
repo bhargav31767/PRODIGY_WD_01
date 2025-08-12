@@ -11,8 +11,5 @@
 - How to use JavaScript to respond to scrolling
 - How to add interactive styles for links
 
-## Live Demo
-(Put GitHub Pages or Netlify link if you deploy)
-
 ## Source Code
 [GitHub Repo Link]
